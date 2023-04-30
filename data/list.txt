@@ -1,0 +1,10 @@
+001 jane /data/jane_profile_07272018.doc
+002 kwood /home/runner/Python-Playground/data/kwood_profile_04022017.doc
+003 pchow /home/runner/Python-Playground/data/pchow_profile_05152019.doc
+004 janez /home/runner/Python-Playground/data/janez_profile_11042019.doc
+005 jane /data/jane_pic_07282018.jpg
+006 kwood /home/runner/Python-Playground/data/kwood_pic_04032017.jpg
+007 pchow /home/runner/Python-Playground/data/pchow_pic_05162019.jpg
+008 jane /data/jane_contact_07292018.csv
+009 kwood /home/runner/Python-Playground/data/kwood_contact_04042017.csv
+010 pchow /home/runner/Python-Playground/data/pchow_contact_05172019.csv
